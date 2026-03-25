@@ -1,0 +1,14 @@
+/Users/hasselhuff/intro_to_software_dev/Employee_Roster/obj/Debug/net10.0/Employee_Roster.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hasselhuff/intro_to_software_dev/Employee_Roster/obj/Debug/net10.0/Employee_Roster.AssemblyInfoInputs.cache
+/Users/hasselhuff/intro_to_software_dev/Employee_Roster/obj/Debug/net10.0/Employee_Roster.AssemblyInfo.cs
+/Users/hasselhuff/intro_to_software_dev/Employee_Roster/obj/Debug/net10.0/Employee_Roster.csproj.CoreCompileInputs.cache
+/Users/hasselhuff/intro_to_software_dev/Employee_Roster/bin/Debug/net10.0/Employee_Roster
+/Users/hasselhuff/intro_to_software_dev/Employee_Roster/bin/Debug/net10.0/Employee_Roster.deps.json
+/Users/hasselhuff/intro_to_software_dev/Employee_Roster/bin/Debug/net10.0/Employee_Roster.runtimeconfig.json
+/Users/hasselhuff/intro_to_software_dev/Employee_Roster/bin/Debug/net10.0/Employee_Roster.dll
+/Users/hasselhuff/intro_to_software_dev/Employee_Roster/bin/Debug/net10.0/Employee_Roster.pdb
+/Users/hasselhuff/intro_to_software_dev/Employee_Roster/obj/Debug/net10.0/Employee_Roster.dll
+/Users/hasselhuff/intro_to_software_dev/Employee_Roster/obj/Debug/net10.0/refint/Employee_Roster.dll
+/Users/hasselhuff/intro_to_software_dev/Employee_Roster/obj/Debug/net10.0/Employee_Roster.pdb
+/Users/hasselhuff/intro_to_software_dev/Employee_Roster/obj/Debug/net10.0/Employee_Roster.genruntimeconfig.cache
+/Users/hasselhuff/intro_to_software_dev/Employee_Roster/obj/Debug/net10.0/ref/Employee_Roster.dll
