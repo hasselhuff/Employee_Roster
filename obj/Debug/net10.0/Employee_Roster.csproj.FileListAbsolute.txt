@@ -12,3 +12,4 @@
 /Users/hasselhuff/intro_to_software_dev/Employee_Roster/obj/Debug/net10.0/Employee_Roster.pdb
 /Users/hasselhuff/intro_to_software_dev/Employee_Roster/obj/Debug/net10.0/Employee_Roster.genruntimeconfig.cache
 /Users/hasselhuff/intro_to_software_dev/Employee_Roster/obj/Debug/net10.0/ref/Employee_Roster.dll
+/Users/hasselhuff/intro_to_software_dev/Employee_Roster/obj/Debug/net10.0/Employee_Roster.sourcelink.json
