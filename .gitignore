@@ -1,1 +1,34 @@
-./obj/Debug/*
+# ---- .NET / C# ----
+**/bin/
+**/obj/
+**/out/
+.vs/
+TestResults/
+*.user
+*.suo
+*.svclog
+*.nupkg
+*.snupkg
+*.pidb
+*.psess
+*.vsp
+*.vspx
+*.coverage
+*.coveragexml
+*.generated.cs
+*.local.json
+
+# IDEs
+.idea/
+.vscode/
+*.DotSettings.user
+
+# Logs / coverage
+*.log
+logs/
+coverage/
+*.lcov
+
+# OS files
+.DS_Store
+Thumbs.db
