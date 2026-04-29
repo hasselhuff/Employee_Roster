@@ -4,7 +4,18 @@ Console.WriteLine("-------------------------------------------");
 Console.WriteLine("| Welcome to the employee roster console  |");
 Console.WriteLine("-------------------------------------------");
 Console.Write("Please enter the number of employees you wish to enter: ");
-int numberOfEmployees = int.Parse(Console.ReadLine());
+string employeeCount = Console.ReadLine();
+int numberOfEmployees;
+try
+{
+    numberOfEmployees = int.Parse(employeeCount);
+}
+catch (FormatException ex)
+{
+    Console.WriteLine($"A non-integer value was entered '{employeeCount}'. \nPlease enter an integer instead.");
+    return;
+}
+
 Console.WriteLine($"Initializing roster for {numberOfEmployees} employees...");
 string[] employeeRoster = new string[numberOfEmployees];
 Console.Clear();
