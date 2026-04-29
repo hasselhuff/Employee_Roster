@@ -10,7 +10,7 @@ try
 {
     numberOfEmployees = int.Parse(employeeCount);
 }
-catch (FormatException ex)
+catch (FormatException)
 {
     Console.WriteLine($"A non-integer value was entered '{employeeCount}'. \nPlease enter an integer instead.");
     return;
